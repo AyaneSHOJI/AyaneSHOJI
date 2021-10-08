@@ -1,6 +1,6 @@
 👋 Hi, I’m @AyaneSHOJI : C# .Net junior developer.</br>
 </br>
-    
+
 🌱 I am currently working on Blazor projects with C# as an intern, back-end oriented, but interested in any other aspects of development.</br>    
 </br>
 
