@@ -1,8 +1,9 @@
 👋 Hi, I’m @AyaneSHOJI : C# .Net junior developer.</br>
 </br>
 
-🌱 I am currently working on Blazor projects with C# as an intern, back-end oriented, but interested in any other aspects of development.</br>    
+🌱 I am currently working on Blazor projects with C# as a trainee, back-end oriented, but interested in any other aspects of development.</br>    
 </br>
+I attended a 3-month coding bootcamp in 2021 and learned HTML, CSS, JavaScript, PHP and Symfony.<br/>
 
 ✨ My favorite app is Doctolib : medical booking service MADE IN FRANCE. I can talk about it at least 2-3 hours if you wish.</br>
 </br>
