@@ -1,10 +1,16 @@
-👋 Hi, I’m @AyaneSHOJI : C# .Net junior developer.</br>
+👋 Hi, I’m @AyaneSHOJI : **C# .NET** junior developer</br>
 </br>
 
-✨ My favorite app is Doctolib : medical booking service MADE IN FRANCE.</br>
+☀️ Available immediately for a developer position</br>
+</br>
+
+🌱 I am currently learning Angular, React and more...</br>
+</br>
+
+✨ My favorite app is **Doctolib** : medical booking service MADE IN FRANCE</br>
 </br>
     
-📫 How to reach me: on LinkedIn Ayané SHOJI or Twitter @AyaneDepretz.</br>
+📫 How to reach me: on LinkedIn Ayané SHOJI or Twitter **@AyaneDepretz**</br>
 </br>
 
 <!---
