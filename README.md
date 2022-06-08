@@ -10,7 +10,7 @@
 ✨ My favorite app is **Doctolib** : medical booking service MADE IN FRANCE</br>
 </br>
     
-📫 How to reach me: on LinkedIn **Ayané SHOJI** or Twitter **@AyaneDepretz**</br>
+📫 How to reach me: on LinkedIn **Ayané SHOJI** or Twitter **@_Ayane_S**</br>
 </br>
 
 <!---
