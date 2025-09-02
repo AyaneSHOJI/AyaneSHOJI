@@ -1,4 +1,4 @@
-👋 Hi, I’m @AyaneSHOJI : **C# .NET** junior developer with **Blazor** project experience </br>
+👋 Hi, I’m @AyaneSHOJI : **C# .NET** developer with **Blazor** project experience </br>
 </br>
 
 🌱 I am currently working in a French banking group</br>
@@ -7,7 +7,7 @@
 ✨ My favorite app is **Doctolib** : medical booking service MADE IN FRANCE</br>
 </br>
     
-📫 How to reach me: on LinkedIn **Ayané SHOJI** or Twitter **@_Ayane_S**</br>
+📫 How to reach me: on LinkedIn **Ayané SHOJI**</br>
 </br>
 
 <!---
